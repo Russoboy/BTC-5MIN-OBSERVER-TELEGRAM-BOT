@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+btc_observer.sqlite3
+btc_observer.sqlite3-shm
+btc_observer.sqlite3-wal
+*.csv
